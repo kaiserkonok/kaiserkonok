@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaiserkonok
 - 👀 I love programming
-- 🌱 I’m currently learning machine Learning
+- 🌱 I’m currently studying Machine Learning and Deep Learning
 
 <!---
 kaiserkonok/kaiserkonok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
