@@ -4,7 +4,7 @@ Studying and building AI systems. Deep learning practitioner. 6+ years in Python
 
 **Currently:**  
 - Building [kevil.io](https://kevil.io) — AI Research Foundry  
-- Creator of **Keovil** — A Local AI Agent for Answering Questions from your private data
+- Creator of **Keovil** — An AI App for Answering Questions from your private data
 - Contributing to open source AI tooling
 
 **Stack:**  
