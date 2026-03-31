@@ -1,6 +1,6 @@
 ## Computer Science Student | AI · Deep Learning · LLMs
 
-Studying and building AI systems. Deep learning practitioner. 6+ years in Python, Linux daily driver.
+Studying and building AI systems. Deep learning practitioner. 6+ years in Python, Linux daily driver. Part time cricketer.
 
 **Currently:**  
 - Building [kevil.io](https://kevil.io) — AI Research Foundry  
