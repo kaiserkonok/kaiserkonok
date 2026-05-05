@@ -2,13 +2,7 @@
 
 Studying and building AI systems. Deep learning practitioner. 6+ years in Python, Linux daily driver. Part time cricketer.
 
-**Currently:**  
-- Building [kevil.io](https://kevil.io) — AI Research Foundry  
-- Creator of **Keovil** — An AI App for Answering Questions from your private data
-- Contributing to open source AI tooling
-
-**Stack:**  
-Python · PyTorch · LLMs · RAG · LangChain · Django · Linux · Docker
+I am currently on Vibe Coding (Agentic Engineering) mode.
 
 **Open to:** AI/ML internships, research roles, backend contracts
 
