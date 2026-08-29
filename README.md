@@ -1,8 +1,6 @@
-## Computer Science Student | AI · Deep Learning · LLMs
+## AI Engineer, Software Developer & A Computer Science Student
 
-Studying and building AI systems. Deep learning practitioner. 6+ years in Python, Linux daily driver. Part time cricketer.
-
-I am currently on Vibe Coding (Agentic Engineering) mode.
+Studying and building AI systems. 7 years of Software Development Experience, Linux daily driver. Part time cricketer.
 
 **Open to:** AI/ML internships, research roles, backend contracts
 
