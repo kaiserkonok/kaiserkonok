@@ -1,4 +1,4 @@
-## AI Engineer, Software Developer & A Computer Science Student
+## AI Researcher, Software Developer & A Computer Science Student
 
 Studying and building AI systems. 7 years of Programming Experience, Linux daily driver. Part time cricketer.
 
